@@ -8,7 +8,7 @@
 
 ### 2.0 安装 tensorflow
 
-为了不与其它环境相冲突，建议为Tensorflow1.15重新建立一个新的虚拟环境（详细过程可**[参见此处]((https://mp.weixin.qq.com/s/KOFvW5UpAzqJKchCkfv7JA))**）。进入虚拟环境后，执行以下命令即可：
+为了不与其它环境相冲突，建议为Tensorflow1.15重新建立一个新的虚拟环境（详细过程可[参见此处](https://mp.weixin.qq.com/s/KOFvW5UpAzqJKchCkfv7JA)）。进入虚拟环境后，执行以下命令即可：
 
 ```shell
 pip install tensorflow==1.15.0
