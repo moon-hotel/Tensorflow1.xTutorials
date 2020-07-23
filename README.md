@@ -26,7 +26,9 @@
 
 - [一个完整的网络模型示例](04_StandarModel/01_StandarModel.md)
 
+- [利用Tensorboard进行可视化](04_StandarModel/02_Tensorboard.md)
 
+  
 
 ### [知识点索引](KnowledgeIndex.md)
 

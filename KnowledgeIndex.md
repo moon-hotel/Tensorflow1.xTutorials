@@ -76,6 +76,21 @@
   - `tf.name_scope()`
   - `tf.train.Saver()`
 
+- [利用Tensorboard进行可视化](04_StandarModel/02_Tensorboard.md)
+
+  **关键词：Tensorboard、可视化**
+
+  - `tf.name_scope()`
+  - ` tf.summary.FileWriter()`
+  - `tf.variable_scope()`
+  - ` tf.get_varibale()`
+  - `tf.summary.scalar()`
+  - `tf.summary.histogram()`
+  - `tf.summary.merge_all()`
+  - `.add_summary()`
+
+
+
 
 
 ## [<返回主页>](README.md)
